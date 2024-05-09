@@ -9,4 +9,4 @@ This repository contains a JavaScript program that generates a wallet seed using
 1. Clone the repository.
 2. Run the following command in your terminal:
 ```bash
-node seed_program.js
+node BIP39.js
